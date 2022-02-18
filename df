@@ -1,0 +1,51 @@
+// Lession@3.1.cpp : Этот файл содержит функцию "main". Здесь начинается и заканчивается выполнение программы.
+//
+
+#include <iostream>
+using namespace std;
+int main()
+{
+	/*float a, b;
+	cin >> a >> b;
+	cout << "Summa: "s << a + b <<"\n" << "Proisvedenie: "  << a * b << "\n" << "Srednee arifmeticheskoe: " << (a + b) / 2;
+	cout << "\n\n\n";
+	cout << "---------";
+	cout << "\n\n\n";
+	float a1, b1, c1;
+	cin >> a1 >> b1 >> c1;
+	cout << "Summa: "s << a1 + b1 + c1 << "\n" << "Proisvedenie: " << a1 * b1 * c1 << "\n" << "Srednee arifmeticheskoe: " << (a1 + b1 + c1) / 2;
+	cout << "\n\n\n";
+	cout << "*********";
+	cout << "\n\n\n";
+	float prise = 0, n = 0, discount = 0;
+	cout << "Vvedite stoimost laptop: " << "\n";
+	
+	cin >> prise;
+	cout << "Skolko nuzno laptop: "<< "\n";
+	cin >> n ;
+	cout << "Razmer skidki, v % : ";
+	cin >> discount;
+	float result = prise * n - prise*n*discount / 100;
+	cout << result;
+	cout << "\n\n\n";
+	cout << "*********";
+	cout << "\n\n\n"; 
+	float sum;
+	cout << "Na skolko prodal manager, v $: " << "\n";
+	cin >> sum;
+	cout << "Zarplata managera ravna: " << 100 + sum * 5 / 100 << "$" << "/n";
+	cout << "\n\n\n";
+	cout << "*********";
+	cout << "\n\n\n";*/
+
+	cout << "Vvedite razmer fail,v HB: ";
+	float size;
+	cin >> size;
+	cout << "Vvedute skorost, v B\sec: ";
+	float v;
+	cin >> v;
+
+
+
+}
+
